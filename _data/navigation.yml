@@ -1,9 +1,51 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Syllabus"
+    url: /syllabus/
+  - title: "Instructors"
+    url: /instructors/
+  - title: "Contact Us"
+    url: /contact/
+  - title: "Resources"
+    url: /resources/
+
+sessions:
+  - title: Week 1
+    children:
+      - title: "Introduction to this series"
+        url: /sessions/week1/
+      - title: "Object Oriented Programming (OOP)"
+        url: /sessions/week1/
+      - title: "Basic programming skills"
+        url: /sessions/week1/
+
+  - title: Week 2
+    children:
+      - title: "If-statements"
+        url: /sessions/week2/
+      - title: "Loops"
+        url: /sessions/week2/
+      - title: "Functions"
+        url: /sessions/week2/
+
+  - title: Week 3
+    children:
+      - title: "Programming process"
+        url: /sessions/week3/
+      - title: "Efficiency"
+        url: /sessions/week3/
+      - title: "Documentation"
+        url: /sessions/week3/
+
+  - title: Week 4
+    children:
+      - title: "Reading data"
+        url: /sessions/week4/
+      - title: "Manipulating data"
+        url: /sessions/week4/
+      - title: "Data cleaning and QA/QC"
+        url: /sessions/week4/
+
+  - title: Week 5
+    children:
+      - title: "Wrap-up activity"
+        url: /sessions/week5/
