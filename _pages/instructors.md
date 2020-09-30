@@ -14,13 +14,6 @@ sidebar:
 
 Cole is a MSc student in the department of Biological Sciences. He is a computational ecologist, and works on both theoretical and applied questions, usually related to food webs, climate change, and sometimes disease dynamics. He mainly performs his work in Python, R, Julia, and sometimes C/C++. Cole is passionate about Open Science, computational education, and caffeine.
 
-
-
-
-
-
-
-
 <figure style="width: 30%" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/peter.jpg" alt="">
 </figure>

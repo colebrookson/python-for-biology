@@ -20,6 +20,9 @@ This week we will cover the **essential** skills of reading and writing if-state
 
 {% include video id="4QZZ5RVutdA" provider="youtube" %}
 
+### Looping actions
+
+{% include video id="1eiMjwmDFII" provider="youtube" %}
 
 
 
