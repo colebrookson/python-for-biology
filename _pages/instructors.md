@@ -7,11 +7,11 @@ classes: wide
 sidebar:
   nav: "sessions"
 ---
-### Cole Brookson (he/him) ![image-right](/assets/images/cole.JPG){: .align-right}
+### Cole Brookson (he/him) ![image-right](/assets/images/cole.png){: .align-right}
 
 Cole is a MSc student in the department of Biological Sciences. He is a computational ecologist, and works on both theoretical and applied questions, usually related to food webs, climate change, and sometimes disease dynamics. He mainly performs his work in Python, R, Julia, and sometimes C/C++. Cole is passionate about Open Science, computational education, and caffeine.
 
-![image-left](/assets/images/peter.JPG){: .align-left}
+![image-left](/assets/images/peter.png){: .align-left}
 
 ### Peter Thompson (he/him)
 
