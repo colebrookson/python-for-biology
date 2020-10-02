@@ -1,13 +1,13 @@
 ---
 permalink: /resources/
 layout: single
-title: Instructors
+title: Resources
 author_profile: false
 classes: wide
 sidebar:
   nav: "sessions"
 ---
-**As soon as we can, we will populate this with resources for further learning**
+**We will populate this with resources for further learning**
 
 ## IDEs & Using Python On Your Own Machine
 
