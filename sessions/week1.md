@@ -15,6 +15,9 @@ sidebar:
 
 ## Week 1
 
+**Zoom Link:** [https://ualberta-ca.zoom.us/j/93864717351](https://ualberta-ca.zoom.us/j/93864717351)
+
+
 Welcome to the first week of content! Topics of this week will be an introduction to this series, an overview of Object-Oriented Programming (OOP) and some of the basic programming skills that will form the basis of what we'll learn from here on out.
 
 {% include video id="7eNMDTPrnhE" provider="youtube" %}

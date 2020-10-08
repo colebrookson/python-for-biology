@@ -46,7 +46,7 @@ of some kind and an internet connection. We will be using Google online products
 ### Timing & Logistics
 This workshop series will run for 5 weeks **October 08, 15, 22, 29, and November 05, 2020, from 12:30 to 14:00 MT**. The first four weeks will be composed of a
 whirlwind tour through the world of Python. This is by NO means a comprehensive set of content as far as Python, nor programming as
-a whole. If you're interested in learning more, please see our [Resources](/resources/) page.
+a whole. If you're interested in learning more, please see our [Resources](/python-for-biology/resources/) page.
 
 This workshop series will run through five weeks, with each week containing both an asynchronous and synchronous component. Videos
 giving short explanations of each concept will be posted, and we **highly** encourage you to watch them **before** the synchronous component.
@@ -74,7 +74,7 @@ will not be able to take this workshop series while others *will* be able to, as
 
 Having said this, things are hard right now. We thank you for being here! We are really trying to promote computational literacy in the Biological Sciences dept.,
 so we are grateful for those of you who signed up. **We are completely committed to making sure you get what you need out of this workshop series!!** If you need
-help, please ask. We are always willing to schedule extra time to assist if something doesn't make sense, or point you in the right direction. Use our [Contact](/contact/) tab and we will help you with any inquiries or assistance.
+help, please ask. We are always willing to schedule extra time to assist if something doesn't make sense, or point you in the right direction. Use our [Contact](/python-for-biology/contact/) tab and we will help you with any inquiries or assistance.
 
 **Some Specifics:**
 1. During ZOOM meetings
@@ -88,9 +88,9 @@ help, please ask. We are always willing to schedule extra time to assist if some
 
 2. Using this Website
   - This material is free and open to anyone enrolled in this workshop series or not. However, the ZOOM meetings are **only** for enrolled individuals. Please do not share links to ZOOM meetings to others who are not enrolled.
-  - As this is the first time we are running this series in this format, there are likely mistakes or broken links on this website. If you notice some such error, please let us know! Use the [Contact](/contact/) tab and drop us a line if you find any errors or if you have any suggestions for website navigation etc.
+  - As this is the first time we are running this series in this format, there are likely mistakes or broken links on this website. If you notice some such error, please let us know! Use the [Contact](/python-for-biology/contact/) tab and drop us a line if you find any errors or if you have any suggestions for website navigation etc.
 
 
-Did we miss anything? If you have further questions about the content of each session, please check out the syllabus and each individual week for more information. Still can't find the answer? Drop us a [line](/contact/) and we can help you out!
+Did we miss anything? If you have further questions about the content of each session, please check out the syllabus and each individual week for more information. Still can't find the answer? Drop us a [line](/python-for-biology/contact/) and we can help you out!
 
 In addition, we are committed to making this workshop series accessible to anyone who wants to participate. If there is some barrier to you participating that we can help alleviate, please please please get in touch with us and we will do everything we can to make sure you can join.
