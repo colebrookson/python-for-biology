@@ -30,7 +30,7 @@ In future weeks, we'll have a few videos for you to watch that have programming 
 
 Before we get started doing any coding, we'll need to get familiar with the actual tool we'll use to write and run our Python programs.
 
-Some of you who have programmed before may recognize the terms IDE (Integrated Development Environment) or text editor. These are tools often used by programmers to write and run their code, and typically they are applications installed on one's local computer. While we encourage you to research and set up your own IDE if you plan on programming much past this workshop series (some useful links in the [Resources](/resources/) section), we ask that you all use Google Collab for this series, just so we're all on the same page technology-wise. This video will walk you through the very basics of using [Google Collab](https://colab.research.google.com/notebooks/intro.ipynb).
+Some of you who have programmed before may recognize the terms IDE (Integrated Development Environment) or text editor. These are tools often used by programmers to write and run their code, and typically they are applications installed on one's local computer. While we encourage you to research and set up your own IDE if you plan on programming much past this workshop series (some useful links in the [Resources](/python-for-biology/resources/) section), we ask that you all use Google Collab for this series, just so we're all on the same page technology-wise. This video will walk you through the very basics of using [Google Collab](https://colab.research.google.com/notebooks/intro.ipynb).
 
 {% include video id="AG0gMuy_i-M" provider="youtube" %}
 
