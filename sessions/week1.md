@@ -426,7 +426,7 @@ One thing to be conscious of is that **comparisons act differently on objects of
 Another thing to note is that there are logical operators that also return Boolean types and are used in computational decision makeing. The logical operators are: `and`, `or`, and `not`. Their usage will become more clear later in these sessions.
 
 There are many more operators that you  will eventually need to use in your programming journey. Here is a more comprehensive list:
-https://www.programiz.com/python-programming/operators
+[https://www.programiz.com/python-programming/operators](https://www.programiz.com/python-programming/operators)
 
 
 # **Assignment Statements**
