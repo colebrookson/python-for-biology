@@ -20,13 +20,13 @@ This week we will cover the **essential** skills of reading and writing if-state
 
 A near-universal programming concept is to ask your computer to do something (i.e. complete a `statement`), but only `if` a particular condition applies. This simple but powerful concept allows us to control exactly when particular actions occur in a script, and can be used in tandem with the other concepts covered this week to achieve a particular programming task in a robust, and consistent manner.
 
-{% include video id="4QZZ5RVutdA" provider="youtube" %}
+{% include video id="tLE62t9neH8" provider="youtube" %}
 
 ### Looping actions
 
 Asking Python to iterate (or 'loop') over a particular set of functions a number of times is a basic and important functionality that is used commonly. There are a variety of looping actions, and they can involve a series of more complex sub-arguments, but here we cover the broad concept of loops, as well as some of the most common structures, like the *while loop* and the *for loop*.
 
-{% include video id="tLE62t9neH8" provider="youtube" %}
+{% include video id="HUXH9tBh4G0" provider="youtube" %}
 
 ### Functions
 
