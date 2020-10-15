@@ -2,16 +2,14 @@
 layout: single
 author_profile: false
 title: "Introduction to Python"
-#header:
-    #og_image: /assets/images/cross-val-logo-v4.jpg
-    #overlay_image: /assets/images/joel-filipe-small-warmer.jpg
-    #caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
 classes: wide
 
 sidebar:
   nav: "sessions"
 
 ---
+
+**Zoom Link:** [https://ualberta-ca.zoom.us/j/98289884440](https://ualberta-ca.zoom.us/j/98289884440)
 
 ## Week 2
 This week we will cover the **essential** skills of reading and writing if-statements, looping actions, and functions. Please watch the below videos and follow along in your own Google Collab notebook, writing code and/or taking notes when appropriate. The point of the in-person session will be to practice the skills you'll get an overview of in these videos. As with all these videos, please feel free to pause to digest when you need or watch on a different speed using the YouTube playback speed functionality. These videos will give you an *introduction* to these topics, and during our synchronous session, we'll cement the ideas introduced here with lots of examples and exercises for you to complete.
