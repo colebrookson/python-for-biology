@@ -9,6 +9,8 @@ sidebar:
 
 ---
 
+**Zoom Link:** [https://ualberta-ca.zoom.us/j/95912630136](https://ualberta-ca.zoom.us/j/95912630136)
+
 ## Week 3
 This week will discuss further some important programming skills often missing from the toolkits of biologists. Now that we've talked about the fundamentals of programming (if statements, loops, functions), we can move on to a discussion of how to do those things, and indeed all other programming tasks, **better**. Please keep in mind that each of these sections could comprise entire workshop series and full undergraduate/graduate courses in computer science are taught on these topics, particularly the later three. We are giving you the tiniest taste of each of these topics, and we hope that this helps you learn more on your own to make your analysis more robust.
 
