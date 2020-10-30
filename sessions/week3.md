@@ -175,17 +175,17 @@ for (x in range(10)):
 
 When trying to run this example, the code will be interrupted by a syntax error, because there is an unnecessary set of parentheses around the statement `x in range(10)`. While some languages require parentheses around the `for` condition, the code above is in violation of Python's syntax, and as a result it cannot run. While these errors can be easy to fix, it is important to pay attention to the syntax of any language you are using; when switching back and forth between different programming languages (e.g., Python and R) it is easy to get your syntax mixed up!
 
-#Best Practices
+# Best Practices
 
 While syntax errors are very important, the fact that the code is interrupted by their presence makes them easy to spot and deal with. Even if your code runs properly, there may still be issues related to some of the "unwritten" syntax rules that govern Python and other programming languages. While these rules technically need not be followed for code to execute properly, they often make things easier for both the programmer and other users of the code. We detail a few of these rules below.
 
-##Variable naming
+## Variable naming
 
 While the name of a variable has no bearing on the role it will play in a block of code, this name can drastically affect how easily your code is understood. This is important because within long scripts of code, there may be dozens of variables in action, each with its own unique function. It is critical to ensure that each variable can immediately be identified and associated with its function in the code, which is mediated by its name. For example, naming a variable `a` might seem convenient in the sense that it is short and easy to type, but what does this name tell us about the function of this variable? The answer is almost nothing. Unless this variable is a place holder for the character `'a'`, this is probably not a very good variable name. Generally, we want to strike a balance between name length and name clarity. Incredibly long variable names are OK, but they can also make the code overly cumbersome, and should be avoided if possible. As we have already discussed, short character names make the code look shorter, but they give very little detail as to the function of the variables.
 
 Often times, because we want variable names to give detail about their functions, our variable names may include multiple words. As an example, a variable detailing the number of eggs in a basket may be given the name `num_eggs_in_basket`. Notice a few things here: first of all, the word "number" is abbreviated to "num" so as to save space; this is a commonly accepted practice. Additionally, the word "a" is eliminated to save space; obviously, the word "a" does little to actually describe what the variable is doing. Most importantly, notice the way the words are separated in the variable name. Since spaces are not allowed in variable names (this would result in a syntax error), we use what is known as **snake case** to delineate words. Snake case is identified by words in all lower case separated by underscores rather than spaces. For Python, snake case is generally agreed upon as the best practice, but other formats (such as camel case, where new words are identified by capitalization, as in `numEggsInBasket`) are more generally accepted in other languages.
 
-##Commenting
+## Commenting
 
 Another best practice that in no way affects the functionality of your code, but is still very important, is **commenting**. Comment lines are lines of code that are excluded from the actual execution process but can be used to add information about a block of code for the benefit of the user. An example of a comment is seen below:
 
@@ -205,7 +205,7 @@ Notice the syntax for commented lines. The number sign (#) is used to signify th
 
 To refer to a more comprehensive guide on best practices in Python, visit [this page](https://docs.python-guide.org/writing/style/). There are some Python constructs we have not gone over yet, but in general this provides a solid blueprint for coding best practices.
 
-#Documentation
+# Documentation
 
 We have already discussed how to write docstrings for your functions in Session 2. Much like commenting, this is an important step in making your code understandable and easy to read. This is especially important when you are writing code that will eventually be viewed by other people. Just like traditional writing, keeping your audience in mind is always very important and can drastically affect how you document your code. For example, in some cases your code may only be viewed by you, if it is just a small inconsequential script that you are writing. In this case, you might still want to comment and document your code, especially if you are going to have to revisit this script in the future (it is alarming how easy it is to forget how you wrote a script in even a few months). That being said, the comments only need to be understood by you, so you may be able to get away with more abbreviated documentation.
 
@@ -213,13 +213,13 @@ As code becomes a more and more integral part of science as a whole, it is impor
 
 To put it briefly, documentation is always important, but how you document your code depends wholly on your audience. More information on this topic is simply a Google search away; as we could discuss documentation for a very long time, we instead encourage you to research best practices for code and code documentation individually, as it is an integral part of effective and open science.
 
-#Efficiency
+# Efficiency
 
 At the high levels of computer science, whether or not a script works is not as important as how quickly it works. This is because the most pressing problems in computer science often involve very large data sets or very computationally intensive algorithms. In other words, if an algorithm is too slow, it doesn't matter if it's correct - it simply can't be used. While computer engineers are constantly pushing to increase the efficiency of the hardware itself, computer scientists are also tasked with writing code that is efficient as possible. This field, known generally as **algorithmic complexity**, is a hot topic in computer science, and most computer science students are required to take at least one course on algorithms in their undergraduate education. A lot of this theory becomes very mathematically intensive, so we will simply introduce the problem and summarize how computer scientists think about complexity and efficiency.
 
 As mentioned earlier, issues of efficiency and complexity are most pressing with large data sets. In general, if your script involves performing an operation on a list of 5 objects, it will probably not take very long no matter what the task is. In other words, it is not necessarily required to maximize efficiency in this case - the code will probably be pretty fast no matter what. But now imagine doing this same process for a list of a thousand or a million objects - it quickly begins to add up. Sometimes, the rate at which the time "adds up" is linear, and sometimes it is worse. The rate at which this time adds up is of primary concern to computer scientists, rather than the actual time it takes to execute. This is because simply using a stopwatch to measure how long a process takes neglects many other variables, including the strength of the computer itself as well as any other processes that computer may be running at the same time.
 
-##Big-O Notation
+## Big-O Notation
 
 Computer scientists have a mathematical name for this "rate at which time adds up", and it is known as **big-O**. We use big-O notation to explain how, when data size gets very large, a block of code executes. A simple example can be seen below:
 
