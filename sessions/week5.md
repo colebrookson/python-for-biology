@@ -11,6 +11,8 @@ sidebar:
 
 ## Week 5
 
+**ZOOM LINK:** [https://ualberta-ca.zoom.us/j/94223003604](https://ualberta-ca.zoom.us/j/94223003604)
+
 Well, you made it! This is the last week! So far you've learned how to use Python in Google Colab, we've talked about data types and structures, loops, function, programming best practices, and how to work with data in Python. Now, it's time to put all that knowledge together and challenge yourself. Below is a problem set that we encourage you to work through independently. As with all programming, unfortunately the only way to truly begin to master a language is by practicing. We encourage you to take the time to try and answer each question. There is nothing here that we haven't covered in class, but the data that you were provided via email are unique. Refer back to previous weeks to refresh your knowledge if need be.
 
 The last in person session, Thurs. Nov. 5th, will be a drop-in help session where both Peter and Cole will be in the ZOOM during the usual time slot to assist you if you have problems. By Sunday, Nov. 08, there will be a series of videos posted here that will walk you through each question in terms of how to do it. We strongly encourage you to try the exercises yourself before you watch the videos. If you get stuck on a particular problem, feel free to watch the video for that problem, then continue trying the problems yourself.
