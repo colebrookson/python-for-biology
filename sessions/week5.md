@@ -31,7 +31,7 @@ As our final task for this workshop, we are going to call on the principles that
 
 To cement the best practice use of functions, we’ll be writing two functions to help us perform some summary statistics on our data. To do this, we’ll note here that a ‘helper’ function is the name of a function that is usually embedded inside another, larger and more general function, for the purposes of streamlining the function writing process, and breaking the entire operation into manageable chunks.
 
-**Question 4** Write a helper function that takes in a level (string) of the 'Location' column and returns the mean of ANY numeric column subset to only that level. **NOTE:** this helper function has to be able to work no matter the numeric column passed
+**Question 4** Write a helper function that takes in a level (type string) of the 'Location' column and returns the mean of ANY numeric column (type float) subset to only that level. **NOTE:** this helper function has to be able to work no matter the numeric column passed
 
 **Question 5** Write a larger function that uses the helper function and produces 3 lists:
 
@@ -45,7 +45,7 @@ To cement the best practice use of functions, we’ll be writing two functions t
                             columns = ['column_name_1', 'column_name_2', 'column_name_3'])`
 
   **NOTE**: you will need to change the column names and list names to represent what you called those objects in your function.
-  
+
 **Question 6** Once the functions are written, write a minimum of three doctests for the helper function. **NOTE**: reminder that for each test, the function will need some values to 'test', so you will need to include the lines of code providing those values in the actual test. Refer to the provided content summary on testing if you need a refresher on this.
 
 When writing your functions, make sure to adhere to coding best practices, and don't forget to write docstrings and comments within all your functions. Additionally, pay attention to the efficiency of your code. We are working with semi-large data, and this code should not take overly long to run.
