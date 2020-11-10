@@ -51,3 +51,14 @@ To cement the best practice use of functions, we’ll be writing two functions t
 **Question 6** Once the functions are written, write a minimum of three doctests for the helper function. **NOTE**: reminder that for each test, the function will need some values to 'test', so you will need to include the lines of code providing those values in the actual test. Refer to the provided content summary on testing if you need a refresher on this.
 
 When writing your functions, make sure to adhere to coding best practices, and don't forget to write docstrings and comments within all your functions. Additionally, pay attention to the efficiency of your code. We are working with semi-large data, and this code should not take overly long to run.
+
+# Answer Videos
+
+## Questions 1-3
+{% include video id="kjTx-gFiOFk" provider="youtube" %}
+## Question 4
+{% include video id="uq-_nIN-D1E" provider="youtube" %}
+## Question 5
+{% include video id="nWFzAyGhUXI" provider="youtube" %}
+## Question 6
+{% include video id="US8zWaKWgik" provider="youtube" %}
