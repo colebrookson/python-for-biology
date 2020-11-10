@@ -21,6 +21,8 @@ If you have questions, please do not hesitate to [contact us](/Contact/).
 
 ## Problem Set:
 
+A quick note before we jump in: **THE INTERNET IS YOUR FRIEND!!** You will likely find there are small pieces of code you need to write that we have not covered explicitly. That is okay, and we encourage you to take advantage of the wide variety of internet resources that exist (i.e. [Stack Overflow](https://stackoverflow.com)) to look up solutions to your problems. It is almost never that you sit down as a programmer and just know off the top of your head to how write every single piece of code that goes into a larger program. You will need to look up pieces here and there, so getting practice doing that here is important. 
+
 As our final task for this workshop, we are going to call on the principles that we have discussed in the first four sessions. Here we provide you with a large fake raw data set about flu cases, one that is too large to edit manually. The data were (hypothetically) collected at different times, so you will notice that it comes in two different files. **Please note these data are fake and are purely for the purposes of you to practice on**. To ready the data for the analysis, begin by doing the following:
 
 **Question 1** Download and read in both CSV files to your Colab Notebook. Feel free to take a peek at the data using some of the functions we have discussed.
