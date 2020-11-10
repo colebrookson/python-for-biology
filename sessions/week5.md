@@ -37,7 +37,7 @@ To cement the best practice use of functions, we’ll be writing two functions t
 
 **Question 5** Write a larger function that uses the helper function and produces 3 lists:
 
-  **a)** A list with all the unique values of the 'location' column *hint:* you can do this with: `df[column_name].unique()`
+  **a)** A list with all the unique values of the categorical 'location' column *hint:* you can do this with: `df[column_name].unique()`
 
   **b)** Two lists with all the mean values of the numeric columns 'patient_age' and 'severity' at each level of the categorical column
 
